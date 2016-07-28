@@ -1,0 +1,5 @@
+{
+  "db_root": "./tmp",
+  "port": 8192,
+  "max_uri_length": 4096
+}

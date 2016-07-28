@@ -1,0 +1,57 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: #EEE;
+  margin: 2em auto;
+  width: 65%;
+  overflow: hidden;
+}
+
+@media (max-width: 800px) {
+  body {
+    width: 85%
+  }
+}
+
+input {
+  border-radius: 2px;
+  border: 2px solid #AAA;
+  font-family: monospace;
+  font-size: 10px;
+  outline: none;
+  padding: 10px;
+  width: 100%;
+  margin: 1em auto;
+  display: block;
+}
+
+input:focus {
+  border-color: #888;
+}
+
+input[disabled] {
+  pointer-events: none;
+  user-select: none;
+}
+
+#output {
+  border-radius: 2px;
+  background: #CCC;
+  line-height: 2em;
+  padding: 10px;
+}
+
+#output:empty {
+  display: none;
+}
+
+.link {
+  background: #EEE;
+  margin: 0;
+}
+
+.link + .link {
+  margin-top: 4px;
+}
