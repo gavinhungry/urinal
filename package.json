@@ -1,0 +1,13 @@
+{
+  "name": "urinal",
+  "version": "0.0.0",
+  "author": "Gavin Lloyd <gavinhungry@gmail.com>",
+  "description": "A simple URI-shortening service",
+  "license": "MIT",
+  "private": true,
+
+  "dependencies": {
+    "express": "4.13.x",
+    "nedb": "1.8.x"
+  }
+}
