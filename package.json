@@ -7,7 +7,11 @@
   "private": true,
 
   "dependencies": {
-    "express": "4.13.x",
-    "nedb": "1.8.x"
+    "body-parser": "1.15.x",
+    "express": "4.14.x",
+    "js-schema": "1.0.x",
+    "nedb": "1.8.x",
+    "random-string": "0.1.x",
+    "rudiment": "0.6.x"
   }
 }
