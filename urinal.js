@@ -1,5 +1,5 @@
 /**
- * urinal - Simple URI shortening server
+ * urinal - URI shortening service
  * https://github.com/gavinhungry/urinal
  */
 

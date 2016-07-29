@@ -2,7 +2,7 @@
   "name": "urinal",
   "version": "0.0.0",
   "author": "Gavin Lloyd <gavinhungry@gmail.com>",
-  "description": "A simple URI-shortening service",
+  "description": "A URI-shortening service",
   "license": "MIT",
   "private": true,
 

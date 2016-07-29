@@ -1,6 +1,6 @@
 urinal
 ======
-A simple URI-shortening server.
+A URI-shortening service.
 
 License
 -------
